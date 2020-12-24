@@ -1,0 +1,23 @@
+package com.example.demo;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		int a = 0;
+		a = scn.nextInt();
+		if(a>=90) {
+			System.out.println("A");
+		}else if(a>=80 && a<=89) {
+			System.out.println("B");
+		}else if(a>=70 && a<=79) {
+			System.out.print("C");
+		}else if(a>=60 && a<=69) {
+			System.out.print("D");
+		}else {
+			System.out.print("F");
+		}
+		
+	}
+}
