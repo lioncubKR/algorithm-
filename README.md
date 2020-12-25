@@ -1,3 +1,3 @@
 # algorithm-
-HI THERE H1
+HI THERE
 -------------
