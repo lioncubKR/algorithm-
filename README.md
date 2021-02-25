@@ -1,3 +1,0 @@
-# algorithm-
-HI THERE
--------------
